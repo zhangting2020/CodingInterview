@@ -6,3 +6,4 @@
 - 003.container-with-most-water.cpp
 - 004.reverse-integer.cpp
 - 005.linked-list-cycle.cpp
+- 006.unique-baniry-search-tree.cpp
