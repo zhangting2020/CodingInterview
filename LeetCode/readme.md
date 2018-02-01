@@ -11,3 +11,5 @@
 - 008.climbing-stairs.cpp
 - 009.inter-to-roman.cpp
 - 010.roman-to-integer.cpp
+- 011.rotate-image.cpp
+- 012.palindrome-number.cpp
