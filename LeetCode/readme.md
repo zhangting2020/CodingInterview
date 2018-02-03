@@ -13,3 +13,8 @@
 - 010.roman-to-integer.cpp
 - 011.rotate-image.cpp
 - 012.palindrome-number.cpp
+- 013.maximum-subarray.cpp
+- 014.best-time-to-buy-and-sell-stock.cpp
+- 015.binary-tree-inorder-traversal.cpp
+- 016.search-insert-position.cpp
+- 017.balanced-binary-tree.cpp
