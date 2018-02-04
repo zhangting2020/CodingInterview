@@ -18,3 +18,5 @@
 - 015.binary-tree-inorder-traversal.cpp
 - 016.search-insert-position.cpp
 - 017.balanced-binary-tree.cpp
+- 018.sort-colors.cpp
+- 019.unique-paths.cpp
