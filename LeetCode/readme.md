@@ -20,3 +20,5 @@
 - 017.balanced-binary-tree.cpp
 - 018.sort-colors.cpp
 - 019.unique-paths.cpp
+- 020.generate-parentheses.cpp
+- 021.single-number-ii.cpp
