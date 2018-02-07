@@ -22,3 +22,5 @@
 - 019.unique-paths.cpp
 - 020.generate-parentheses.cpp
 - 021.single-number-ii.cpp
+- 022.merge-two-lists.cpp
+- 023.same-tree.cpp
