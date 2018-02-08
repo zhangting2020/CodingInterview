@@ -24,3 +24,5 @@
 - 021.single-number-ii.cpp
 - 022.merge-two-lists.cpp
 - 023.same-tree.cpp
+- 024.spiral-matrix-ii.cpp
+- 025.search-2d-matrix.cpp
