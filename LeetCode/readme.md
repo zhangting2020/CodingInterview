@@ -27,3 +27,5 @@
 - 024.spiral-matrix-ii.cpp
 - 025.search-2d-matrix.cpp
 - 026.set-matrix-zeros.cpp
+- 027.binary-tree-preorder-traversal.cpp
+- 028.remove-duplicates-from-sorted-array.cpp
