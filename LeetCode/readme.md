@@ -29,3 +29,6 @@
 - 026.set-matrix-zeros.cpp
 - 027.binary-tree-preorder-traversal.cpp
 - 028.remove-duplicates-from-sorted-array.cpp
+- 029.gray-code.cpp
+- 030.remove-duplicates-from-sorted-list.cpp
+- 031.binary-tree-level-order-traversal.cpp
