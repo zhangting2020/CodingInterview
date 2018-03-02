@@ -32,3 +32,4 @@
 - 029.gray-code.cpp
 - 030.remove-duplicates-from-sorted-list.cpp
 - 031.binary-tree-level-order-traversal.cpp
+- 032.jump-game.cpp
