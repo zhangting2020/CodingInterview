@@ -34,3 +34,4 @@
 - 031.binary-tree-level-order-traversal.cpp
 - 032.jump-game.cpp
 - 033.path-sum.cpp
+- 034.trapping-rain-water.cpp
