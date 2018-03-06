@@ -36,3 +36,4 @@
 - 033.path-sum.cpp
 - 034.trapping-rain-water.cpp
 - 035.minimum-path-sum.cpp
+- 036.count-and-say.cpp
