@@ -37,3 +37,5 @@
 - 034.trapping-rain-water.cpp
 - 035.minimum-path-sum.cpp
 - 036.count-and-say.cpp
+- 037.valid-sudoku.cpp
+- 038.swap-nodes-in-pairs.cpp
