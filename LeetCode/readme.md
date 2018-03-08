@@ -39,3 +39,7 @@
 - 036.count-and-say.cpp
 - 037.valid-sudoku.cpp
 - 038.swap-nodes-in-pairs.cpp
+- 039.permutation.cpp
+- 040.symmetric-tree.cpp
+- 041.plus-one.cpp
+- 042.search-in-rotated.cpp
