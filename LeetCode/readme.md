@@ -48,4 +48,3 @@
 - 045.pascals-triangle.cpp
 - 046.merge-sorted-array.cpp
 - 047.remove-duplicates-from-sorted-array.cpp
-
