@@ -39,3 +39,13 @@
 - 036.count-and-say.cpp
 - 037.valid-sudoku.cpp
 - 038.swap-nodes-in-pairs.cpp
+- 039.permutation.cpp
+- 040.symmetric-tree.cpp
+- 041.plus-one.cpp
+- 042.search-in-rotated-sorted-array-ii.cpp
+- 043.search-in-roatated-sorted-array-i.cpp
+- 044.jump-game-ii.cpp
+- 045.pascals-triangle.cpp
+- 046.merge-sorted-array.cpp
+- 047.remove-duplicates-from-sorted-array.cpp
+
