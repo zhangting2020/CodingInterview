@@ -48,3 +48,9 @@
 - 045.pascals-triangle.cpp
 - 046.merge-sorted-array.cpp
 - 047.remove-duplicates-from-sorted-array.cpp
+- 048.longest-common-premix.cpp
+- 049.pascals-triangle-ii.cpp
+- 050.binary-tree-level-order-traversal-ii.cpp
+- 051.populating-next-right-pointers-in-each-node-ii.cpp
+
+
