@@ -52,5 +52,9 @@
 - 049.pascals-triangle-ii.cpp
 - 050.binary-tree-level-order-traversal-ii.cpp
 - 051.populating-next-right-pointers-in-each-node-ii.cpp
+- 052.gas-station.cpp
+- 053.clone-graph.cpp
+- 054.3sum-closet.cpp
+- 055.construct-binary-tree-pre-and-inorder-traversal.cpp
 
 
