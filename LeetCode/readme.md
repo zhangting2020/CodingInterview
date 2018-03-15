@@ -56,5 +56,7 @@
 - 053.clone-graph.cpp
 - 054.3sum-closet.cpp
 - 055.construct-binary-tree-pre-and-inorder-traversal.cpp
-
+- 056.largest-rectangle-in-histogram.cpp
+- 057.next-permutation.cpp
+- 058.unique-paths-ii.cpp
 
