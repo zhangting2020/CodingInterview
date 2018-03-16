@@ -59,4 +59,7 @@
 - 056.largest-rectangle-in-histogram.cpp
 - 057.next-permutation.cpp
 - 058.unique-paths-ii.cpp
+- 059.partition-list.cpp
+- 060.unique-binary-search-tree.cpp
+- 061.valid-parentheses.cpp
 
