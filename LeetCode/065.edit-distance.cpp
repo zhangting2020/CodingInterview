@@ -1,4 +1,4 @@
-
+/*
 题目描述
 Given two words word1 and word2, find the minimum number of steps required to convert word1 to word2. 
 (each operation is counted as 1 step.)
@@ -19,3 +19,29 @@ c) Replace a character
 3. 初始化：
 　　dp[i][0] = i; i = 1...m; 相当于word1转换为空串
 　　dp[0][j] = j; j = 1...n; 相当于把空串转换为Word2
+
+*/
+class Solution {
+public:
+    int minDistance(string word1, string word2) {
+        int m = word1.size();
+        int n = word2.size();
+        vector<vector<int> > dp(m+1, vector<int>(n+1));
+        for(int i = 0; i <= m; ++i)
+            dp[i][0] = i;
+        for(int j = 0; j <= n; ++j)
+            dp[0][j] = j;
+        for(int i = 1; i <= m; ++i)
+        {
+            for(int j = 1; j <= n; ++j)
+            {
+                if(word1[i-1] == word2[j-1])
+                    dp[i][j] = dp[i-1][j-1];
+                else
+                    dp[i][j] = min( dp[i-1][j-1], min(dp[i-1][j], dp[i][j-1]) ) + 1;
+            }
+        }
+        return dp[m][n];
+         
+    }
+};

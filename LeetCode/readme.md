@@ -62,4 +62,8 @@
 - 059.partition-list.cpp
 - 060.unique-binary-search-tree.cpp
 - 061.valid-parentheses.cpp
-
+- 062.linked-list-cycle-ii.cpp
+- 063.remove-nth-node-from-end-of-list.cpp
+- 064.triangle.cpp
+- 065.edit-distance.cpp
+- 066.letter-combinations-of-a-phone-number.cpp
