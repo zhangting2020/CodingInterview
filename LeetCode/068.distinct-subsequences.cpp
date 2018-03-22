@@ -1,4 +1,4 @@
-
+/*
 题目描述
 Given a string S and a string T, count the number of distinct subsequences of T in S.
 A subsequence of a string is a new string which is formed from the original string by deleting some 
@@ -28,4 +28,24 @@ t 0 0 0 0 0 0 0 3
 新的dp值可以是不使用第j个字符，却能构成T中i子串的个数dp[i][j-1]，加上不使用第j个字符能构成
 T中i-1子串的个数dp[i-1][j-1]。
 2. 若不等， dp[i][j] = dp[i][j - 1]
- 
+*/
+class Solution {
+public:
+    int numDistinct(string S, string T) {
+        int m = T.size(), n = S.size();
+        vector<vector<int> > dp(m+1, vector<int>(n+1, 0));
+        for(int j = 0; j <= n; ++j)
+            dp[0][j] = 1;
+        for(int i = 1; i <= m; ++i)
+        {
+            for(int j = 1; j <= n; ++j)
+            {
+                if(S[j-1] == T[i-1]) //因为多了一行一列，且从1开始循环，注意对应字符索引
+                    dp[i][j] = dp[i][j-1] + dp[i-1][j-1];
+                else
+                    dp[i][j] = dp[i][j-1];
+            }
+        }
+        return dp[m][n];
+    }
+};
