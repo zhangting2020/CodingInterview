@@ -67,3 +67,8 @@
 - 064.triangle.cpp
 - 065.edit-distance.cpp
 - 066.letter-combinations-of-a-phone-number.cpp
+- 067.binary-tree-postorder-traversal.cpp
+- 068.distinct-subsequences.cpp
+- 069.search-for-a-range.cpp
+- 070.copy-list-with-random-pointer.cpp
+- 071.path-sum-ii.cpp
